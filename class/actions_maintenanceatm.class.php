@@ -48,7 +48,7 @@ class ActionsMaintenanceATM extends maintenanceatm\RetroCompatCommonHookActions
 
 
 	/**
-	 * @var array Hook results. Propagated to $hookmanager->resArray for later reuse
+	 * @var array Hook results. Propagated to $this->results for later reuse
 	 */
 	public $results = array();
 

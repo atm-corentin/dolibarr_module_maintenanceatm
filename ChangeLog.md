@@ -4,6 +4,7 @@
 
 ## 1.1
 
+- FIX : COMPAT V22 - 1.1.1 *08/07/2025*
 - NEW : configuration for redirection on login page to new URL - 1.1.0 *17/05/2024*
 
 ## 1.0
